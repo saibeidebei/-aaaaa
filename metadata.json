@@ -1,0 +1,5 @@
+{
+  "name": "SubFix AI - 专业字幕纠错工具",
+  "description": "基于 Gemini 3 Pro 的 AI 驱动工具，自动识别并修复 ASR 自动生成的 SRT 字幕错误。",
+  "requestFramePermissions": []
+}
